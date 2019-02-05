@@ -18,6 +18,4 @@ public class cutsceneParser : MonoBehaviour {
 	void Update () {
 		
 	}
-
-    public void
 }
